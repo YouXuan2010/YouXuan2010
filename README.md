@@ -1,5 +1,7 @@
 ### Hello there 👋, I'm You Xuan
 
+<img src="https://komarev.com/ghpvc/?username=YouXuan2010" alt="page views" />
+
 <p align="left">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=12184663503&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
