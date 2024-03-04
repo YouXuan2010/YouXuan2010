@@ -1,4 +1,12 @@
-### Hi there 👋, I am You Xuan
+### Hello there 👋, I'm You Xuan
+
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12184663503&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12184663503&count=5">
+</p>
 
 <!--
 **YouXuan2010/YouXuan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
